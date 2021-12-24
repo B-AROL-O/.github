@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub profile!
+Welcome to the GitHub profile of the **B-AROL-O** Team!
+
+<!-- EOF -->
