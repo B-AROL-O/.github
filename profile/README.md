@@ -1,6 +1,8 @@
-### Hi there 👋
+# Welcome to the B-AROL-O Team GitHub profile
 
 <!--
+Hi there 👋
+
 **B-AROL-O/B-AROL-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub profile!
+The **B-AROL-O** Bottling System Team is proud to be
+
+<a href="https://opencv.org/opencv-spatial-ai-contest/#finalists">![OpenCV Spatial AI Contest Finalist](img/opencv-spatial-ai-contest-finalist.jpg)</a>
+
+Stay tuned for our future announcements about the [ARNEIS](https://github.com/B-AROL-O/ARNEIS) project!
+
+<!-- EOF -->
