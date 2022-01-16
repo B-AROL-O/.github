@@ -1,4 +1,4 @@
-# Welcome to the B-AROL-O Team GitHub profile
+# B-AROL-O Team profile on GitHub
 
 <!--
 Hi there 👋
