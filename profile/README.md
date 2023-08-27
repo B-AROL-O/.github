@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 We (the B-AROL-O Team) are a small group of friends who work or used to work for an Italian company with headquarters in [Piedmont](https://en.wikipedia.org/wiki/Piedmont_(wine)) (a northern Italy region) which developed their business around the wine industry.
 
-"B-AROL-O" (without the hyphens) is also [a very famous wine](https://en.wikipedia.org/wiki/Barolo) from Piedmont - and the Barolo region (quite close to our company headquarter) is visited by people all around the world.
+"B-AROL-O" (without the hyphens) is also [a very famous wine](https://en.wikipedia.org/wiki/Barolo) from Piedmont - and the [Barolo wine region](https://www.decanter.com/wine/wine-regions/piedmont-wine-region/barolo/) (quite close to our company HQ) is visited by people all around the world.
 
 To remind how we became friends and celebrate our pride of being here, we chose to extend [the name of the company](https://www.arol.com/) with a leading "B" and a traling "O" and make it a strong wine!
 
