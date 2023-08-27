@@ -31,6 +31,8 @@ To remind how we became friends and celebrate our pride of being here, we chose 
 
 ## Our projects
 
+Once the team name is set, the choice of the project name is just a matter of choosing another fine Piedmontese grape or wine 🍷 🍇 🥂
+
 ### ARNEIS
 
 [![arneis-logo.png](https://raw.githubusercontent.com/B-AROL-O/ARNEIS/main/docs/images/arneis-logo.png)](https://arneis.readthedocs.io)
