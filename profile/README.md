@@ -17,10 +17,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-The **B-AROL-O Bottling System** Team is proud to be Top 10 Finalist to the [OpenCV Spatial AI Contest](https://opencv.org/opencv-spatial-ai-contest/) sponsored by Intel and Microsoft!
+## Who is the "B-AROL-O Team" and why
+
+We are small group of friends who work or have worked for an Italian company with headquarters in [Piedmont](https://en.wikipedia.org/wiki/Piedmont_(wine)) (a northern Italy region) which developed their business around the wine industry.
+
+"B-AROL-O" (without the hyphens) is also [a very famous wine](https://en.wikipedia.org/wiki/Barolo) from Piedmont - and the Barolo region (quite close to our company headquarter) is visited by people all around the workd.
+
+To acknowledge and testify our pride in our roots, we decided to embed it the team name - we used to say "[this company](https://www.arol.com/) is in the heart of "B-AROL-O" ❤️
+
+It looked like our love was shared!
+
+## Our projects
+
+### ARNEIS
+
+[![arneis-logo.png](https://raw.githubusercontent.com/B-AROL-O/ARNEIS/main/docs/images/arneis-logo.png)](https://arneis.readthedocs.io)
+
+**ARNEIS** (short for ``A`` utomated ``R`` ecognizer,  ``N`` etwork - ``E`` nabled, ``I`` tem ``S`` orter) started in 2021 is the first project by the B-AROL-O team.
+
+In 2022 the ARNEIS project was Top 10 Finalist to the [OpenCV Spatial AI Contest](https://opencv.org/opencv-spatial-ai-contest/) sponsored by Intel and Microsoft and eventually won the Popular Award
 
 [![2022-04-21-opencv-spatial-ai-contest-top-10-finalist.png](https://raw.githubusercontent.com/B-AROL-O/ARNEIS/main/docs/images/2022-04-21-opencv-spatial-ai-contest-top-10-finalist.png)](https://form.jotform.com/221086334784156)
 
-Please vote and have friends vote for "**Team B-AROL-O - ARNEIS**" [on this site](https://form.jotform.com/221086334784156)!
+<!-- Please vote and have friends vote for "**Team B-AROL-O - ARNEIS**" [on this site](https://form.jotform.com/221086334784156)! -->
+
+Please look at the ARNEIS project documentation at [arneis.readthedocs.io](https://arneis.readthedocs.io) to know more.
+
+[![arneis-qr-code.png](https://github.com/B-AROL-O/ARNEIS/blob/main/docs/images/arneis-qr-code.png?raw=true)](https://arneis.readthedocs.io)
+
+### What's next?
+
+Stay tuned, B-AROL-O Team is coming back...
 
 <!-- EOF -->
