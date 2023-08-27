@@ -39,9 +39,9 @@ Once the team name is set, the choice of the project name is just a matter of ch
 
 **ARNEIS** (short for ``A`` utomated ``R`` ecognizer,  ``N`` etwork - ``E`` nabled, ``I`` tem ``S`` orter) is the first project developed by the B-AROL-O team.
 
-The project was kicked off in 2021 and was submitted to the [OpenCV Spatial AI Contest](https://opencv.org/opencv-spatial-ai-contest/) sponsored by [Intel&reg;](https://www.intel.com/) and [Microsoft Azure](https://azure.microsoft.com/).
+The project was kicked off in 2021 in response to the [OpenCV Spatial AI Contest](https://opencv.org/opencv-spatial-ai-contest/) sponsored by [Intel&reg;](https://www.intel.com/) and [Microsoft Azure](https://azure.microsoft.com/).
 
-In 2022 ARNEIS was selected Top 10 Finalist among 120 participants and eventually won the Popular Award
+In April 2022 [a panel of judges](https://opencv.org/blog/2022/04/15/meet-the-judges-for-opencv-spatial-ai-contest/) selected the B-AROL-O Team as **Top 10 Finalist** among over 120 submissions.
 
 [![ARNEIS - OpenCV Spatial AI Contest Top 10](https://user-images.githubusercontent.com/75182/164913525-176820e5-eb7e-4f74-b3da-f7adf01dda9c.png)](https://www.youtube.com/watch?v=mijyQ9Kjg9Y "ARNEIS - OpenCV Spatial AI Contest Top 10")
 
@@ -49,12 +49,22 @@ In 2022 ARNEIS was selected Top 10 Finalist among 120 participants and eventuall
 
 <!-- Please vote and have friends vote for "**Team B-AROL-O - ARNEIS**" [on this site](https://form.jotform.com/221086334784156)! -->
 
-Please look at the ARNEIS project documentation at [arneis.readthedocs.io](https://arneis.readthedocs.io) to know more.
+A few weeks later, ARNEIS scored the highest number of fan votes from the Internet and was elected **[Winner of the OpenCV Spatial AI Contest Popular Vote](https://opencv.org/opencv-spatial-ai-contest/)**.
+
+Now the OpenCV Spatial AI Contest is over, however the ARNEIS project is still alive and prosper.
+The project is released as Open Source under the MIT/CC-BY-SA licenses and contributions are welcome!
+
+Please have a look at the ARNEIS project documentation at [arneis.readthedocs.io](https://arneis.readthedocs.io) to know more.
 
 [![arneis-qr-code.png](https://github.com/B-AROL-O/ARNEIS/blob/main/docs/images/arneis-qr-code.png?raw=true)](https://arneis.readthedocs.io)
 
 ### What's next?
 
-Stay tuned, the [B-AROL-O Team is coming back](https://www.hackster.io/projects/845012)...
+[Stay tuned](https://twitter.com/baroloteam), the [B-AROL-O Team is coming back](https://www.hackster.io/projects/845012)...
+
+## How to get in touch with us
+
+* We usually post updates on <https://twitter.com/baroloteam>. Please subscribe and DM us there
+* For code and/or other contributions please send us comments, bug reports, etc. through GitHub: <https://github.com/B-AROL-O>
 
 <!-- EOF -->
