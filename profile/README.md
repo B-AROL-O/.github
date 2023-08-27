@@ -47,6 +47,6 @@ Please look at the ARNEIS project documentation at [arneis.readthedocs.io](https
 
 ### What's next?
 
-Stay tuned, B-AROL-O Team is coming back...
+Stay tuned, the [B-AROL-O Team is coming back](https://www.hackster.io/projects/845012)...
 
 <!-- EOF -->
