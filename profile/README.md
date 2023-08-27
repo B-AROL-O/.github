@@ -17,15 +17,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Who is the "B-AROL-O Team" and why
+## B-AROL-O Team: The "who" and the "why"
 
-We are small group of friends who work or have worked for an Italian company with headquarters in [Piedmont](https://en.wikipedia.org/wiki/Piedmont_(wine)) (a northern Italy region) which developed their business around the wine industry.
+We (the B-AROL-O Team) are a small group of friends who work or used to work for an Italian company with headquarters in [Piedmont](https://en.wikipedia.org/wiki/Piedmont_(wine)) (a northern Italy region) which developed their business around the wine industry.
 
-"B-AROL-O" (without the hyphens) is also [a very famous wine](https://en.wikipedia.org/wiki/Barolo) from Piedmont - and the Barolo region (quite close to our company headquarter) is visited by people all around the workd.
+"B-AROL-O" (without the hyphens) is also [a very famous wine](https://en.wikipedia.org/wiki/Barolo) from Piedmont - and the Barolo region (quite close to our company headquarter) is visited by people all around the world.
 
-To acknowledge and testify our pride in our roots, we decided to embed it the team name - we used to say "[this company](https://www.arol.com/) is in the heart of "B-AROL-O" ❤️
+To remind how we became friends and celebrate our pride of being here, we chose to extend [the name of the company](https://www.arol.com/) with a leading "B" and a traling "O" and make it a strong wine!
 
-It looked like our love was shared!
+<!-- we used to say "[this company](https://www.arol.com/) is in the heart of "B-AROL-O" ❤️ -->
+
+<!-- It looked like our love was shared! -->
 
 ## Our projects
 
