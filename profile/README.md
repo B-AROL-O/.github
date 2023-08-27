@@ -49,7 +49,7 @@ In April 2022 [a panel of judges](https://opencv.org/blog/2022/04/15/meet-the-ju
 
 <!-- Please vote and have friends vote for "**Team B-AROL-O - ARNEIS**" [on this site](https://form.jotform.com/221086334784156)! -->
 
-A few weeks later, ARNEIS scored the highest number of fan votes from the Internet and was elected **[Winner of the OpenCV Spatial AI Contest Popular Vote](https://opencv.org/opencv-spatial-ai-contest/)**.
+A few weeks later, ARNEIS scored the highest number of fan votes from the Internet and was elected **[Winner of the OpenCV Spatial AI Contest Popular Vote](https://opencv.org/blog/2022/06/13/announcing-the-opencv-spatial-ai-contest-popular-vote-winner/)**.
 
 Now the OpenCV Spatial AI Contest is over, however the ARNEIS project is still alive and prosper.
 The project is released as Open Source under the MIT/CC-BY-SA licenses and contributions are welcome!
