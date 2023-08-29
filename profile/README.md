@@ -1,37 +1,18 @@
 # B-AROL-O Team profile on GitHub
 
-<!--
-Hi there 👋
-
-**B-AROL-O/B-AROL-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## B-AROL-O Team: The "who" and the "why"
 
-We (the B-AROL-O Team) are a small group of friends who work or used to work for an Italian company with headquarters in [Piedmont](https://en.wikipedia.org/wiki/Piedmont_(wine)) (a northern Italy region) which developed their business around the wine industry.
+We (the B-AROL-O Team) are a small group of friends who either currently work or have previously worked for an esteemed Italian company headquartered in [Piedmont](https://en.wikipedia.org/wiki/Piedmont_(wine)) - a region situated in northern Italy region.
+This company has made its mark in the packaging industry, developing closure systems for wines and spirits.
 
-"B-AROL-O" (without the hyphens) is also [a very famous wine](https://en.wikipedia.org/wiki/Barolo) from Piedmont - and the [Barolo wine region](https://www.decanter.com/wine/wine-regions/piedmont-wine-region/barolo/) (quite close to our company HQ) is visited by people all around the world.
+On top of that, "B-AROL-O" (excluding the hyphens) is also [an iconing wine](https://en.wikipedia.org/wiki/Barolo) originating from Piedmont.
+The renowned [Barolo wine region](https://www.decanter.com/wine/wine-regions/piedmont-wine-region/barolo/), located in close proximity to our company headquarters, entices individuals from all corners of the globe.
 
-To remind how we became friends and celebrate our pride of being here, we chose to extend [the name of the company](https://www.arol.com/) with a leading "B" and a traling "O" and make it a strong wine!
-
-<!-- we used to say "[this company](https://www.arol.com/) is in the heart of "B-AROL-O" ❤️ -->
-
-<!-- It looked like our love was shared! -->
+Reflecting on the origins of our camaraderie and embracing our sense of belonging, we decided to append a leading "B" and a trailing "O" to the company's name, thus creating a name that resonates strength and character, akin to a fine wine!
 
 ## Our projects
 
-Once the team name is set, the choice of the project name is just a matter of choosing another fine Piedmontese grape or wine 🍷 🍇 🥂
+Once the team name is set, selecting the project name becomes as simple as picking out another exquisite grape or wine native to Piedmont 🍷 🍇 🥂.
 
 ### ARNEIS
 
@@ -39,9 +20,9 @@ Once the team name is set, the choice of the project name is just a matter of ch
 
 **ARNEIS** (short for ``A`` utomated ``R`` ecognizer,  ``N`` etwork - ``E`` nabled, ``I`` tem ``S`` orter) is the first project developed by the B-AROL-O team.
 
-The project was kicked off in 2021 in response to the [OpenCV Spatial AI Contest](https://opencv.org/opencv-spatial-ai-contest/) sponsored by [Intel&reg;](https://www.intel.com/) and [Microsoft Azure](https://azure.microsoft.com/).
+This initiative was initiated in 2021, prompted by the [OpenCV Spatial AI Contest](https://opencv.org/opencv-spatial-ai-contest/) sponsored by [Intel&reg;](https://www.intel.com/) and [Microsoft Azure](https://azure.microsoft.com/).
 
-In April 2022 [a panel of judges](https://opencv.org/blog/2022/04/15/meet-the-judges-for-opencv-spatial-ai-contest/) selected the B-AROL-O Team as **Top 10 Finalist** among over 120 submissions.
+By April 2022, [an esteemed panel of judges](https://opencv.org/blog/2022/04/15/meet-the-judges-for-opencv-spatial-ai-contest/) designated the B-AROL-O Team as a **Top 10 Finalist** from a pool of over 120 submissions.
 
 [![ARNEIS - OpenCV Spatial AI Contest Top 10](https://user-images.githubusercontent.com/75182/164913525-176820e5-eb7e-4f74-b3da-f7adf01dda9c.png)](https://www.youtube.com/watch?v=mijyQ9Kjg9Y "ARNEIS - OpenCV Spatial AI Contest Top 10")
 
@@ -49,22 +30,23 @@ In April 2022 [a panel of judges](https://opencv.org/blog/2022/04/15/meet-the-ju
 
 <!-- Please vote and have friends vote for "**Team B-AROL-O - ARNEIS**" [on this site](https://form.jotform.com/221086334784156)! -->
 
-A few weeks later, ARNEIS scored the highest number of fan votes from the Internet and was elected **[Winner of the OpenCV Spatial AI Contest Popular Vote](https://opencv.org/blog/2022/06/13/announcing-the-opencv-spatial-ai-contest-popular-vote-winner/)**.
+A few weeks later, ARNEIS garnered the highest count of fan votes via the Internet and secured the title of the **[Winner of the OpenCV Spatial AI Contest Popular Vote](https://opencv.org/blog/2022/06/13/announcing-the-opencv-spatial-ai-contest-popular-vote-winner/)**.
 
-Now the OpenCV Spatial AI Contest is over, however the ARNEIS project is still alive and prosper.
-The project is released as Open Source under the MIT/CC-BY-SA licenses and contributions are welcome!
+Although the OpenCV Spatial AI Contest has drawn to a close, the ARNEIS project continues to thrive.
+The project has been made available as an Open Source initiative, governed by the MIT/CC-BY-SA licenses, and we warmly welcome contributions!
 
-Please have a look at the ARNEIS project documentation at [arneis.readthedocs.io](https://arneis.readthedocs.io) to know more.
+For a deeper insight, explore the ARNEIS project documentation at [arneis.readthedocs.io](https://arneis.readthedocs.io).
+This resource provides a comprehensive understanding of the project's details.
 
 [![arneis-qr-code.png](https://github.com/B-AROL-O/ARNEIS/blob/main/docs/images/arneis-qr-code.png?raw=true)](https://arneis.readthedocs.io)
 
-### What's next?
+### What Comes Next?
 
-[Stay tuned](https://twitter.com/baroloteam), the [B-AROL-O Team is coming back](https://www.hackster.io/projects/845012)...
+[Keep an eye out](https://twitter.com/baroloteam), as the [B-AROL-O Team is gearing up for a return...](https://www.hackster.io/projects/845012)
 
 ## How to get in touch with us
 
-* We usually post updates on <https://twitter.com/baroloteam>. Please subscribe and DM us there
-* For code and/or other contributions please send us comments, bug reports, etc. through GitHub: <https://github.com/B-AROL-O>
+* We frequently share updates via <https://twitter.com/baroloteam>. Be sure to subscribe and reach out to us through direct messages there.
+* For those interested in contributing code or other elements, please communicate with us by sharing your comments, bug reports, and more via GitHub: <https://github.com/B-AROL-O>
 
 <!-- EOF -->
