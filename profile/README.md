@@ -48,14 +48,13 @@ This resource provides a comprehensive understanding of the project's details.
 
 You can reach out to us through the following platforms:
 
-- [![Twitter](https://img.icons8.com/small/16/000000/twitter.png)](https://twitter.com/baroloteam) Twitter: [@baroloteam](<https://twitter.com/baroloteam>)
+* [![Twitter](https://img.icons8.com/small/16/000000/twitter.png)](https://twitter.com/baroloteam) Twitter: [@baroloteam](<https://twitter.com/baroloteam>)
 
-- [![Instagram](https://img.icons8.com/small/16/000000/instagram-new.png)](https://instagram.com/baroloteam) Instagram: [@baroloteam](https://instagram.com/baroloteam)
+* [![Instagram](https://img.icons8.com/small/16/000000/instagram-new.png)](https://instagram.com/baroloteam) Instagram: [@baroloteam](https://instagram.com/baroloteam)
 
-- [![GitHub](https://img.icons8.com/small/16/000000/github.png)](https://github.com/B-AROL-O) GitHub: [B-AROL-O](https://github.com/B-AROL-O)
+* [![GitHub](https://img.icons8.com/small/16/000000/github.png)](https://github.com/B-AROL-O) GitHub: [B-AROL-O](https://github.com/B-AROL-O)
 
-- [![Email](https://img.icons8.com/small/16/000000/email.png)](mailto:info@baroloteam.online) Email: [info@baroloteam.online](mailto:info@baroloteam.online)
-
+* [![Email](https://img.icons8.com/small/16/000000/email.png)](mailto:info@baroloteam.online) Email: [info@baroloteam.online](mailto:info@baroloteam.online)
 
 <!-- * Homepage: <https://baroloteam.online> -->
 
