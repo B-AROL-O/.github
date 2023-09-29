@@ -44,9 +44,18 @@ This resource provides a comprehensive understanding of the project's details.
 
 [Keep an eye out](https://twitter.com/baroloteam), as the [B-AROL-O Team is gearing up for a return...](https://www.hackster.io/projects/845012)
 
-## How to get in touch with us
+### How to Get in Touch with Us
 
-* We frequently share updates via <https://twitter.com/baroloteam>. Be sure to subscribe and reach out to us through direct messages there.
-* For those interested in contributing code or other elements, please communicate with us by sharing your comments, bug reports, and more via GitHub: <https://github.com/B-AROL-O>
+You can reach out to us through the following platforms:
+
+* [![Twitter](https://img.icons8.com/small/16/000000/twitter.png)](https://twitter.com/baroloteam) Twitter: [@baroloteam](<https://twitter.com/baroloteam>)
+
+* [![Instagram](https://img.icons8.com/small/16/000000/instagram-new.png)](https://instagram.com/baroloteam) Instagram: [@baroloteam](https://instagram.com/baroloteam)
+
+* [![GitHub](https://img.icons8.com/small/16/000000/github.png)](https://github.com/B-AROL-O) GitHub: [B-AROL-O](https://github.com/B-AROL-O)
+
+* [![Email](https://img.icons8.com/small/16/000000/email.png)](mailto:info@baroloteam.online) Email: [info@baroloteam.online](mailto:info@baroloteam.online)
+
+<!-- * Homepage: <https://baroloteam.online> -->
 
 <!-- EOF -->
