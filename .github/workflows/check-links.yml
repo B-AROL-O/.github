@@ -27,7 +27,7 @@ jobs:
         uses: gaurav-nelson/github-action-markdown-link-check@1.0.15
         with:
           folder-path: '., ./profile'
-          file-path: './README.md, ./LICENSE'
+          # file-path: './README.md, ./LICENSE'
           use-quiet-mode: yes
 
 # EOF
