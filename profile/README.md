@@ -2,7 +2,7 @@
 
 ## B-AROL-O Team: The "who" and the "why"
 
-We (the B-AROL-O Team) are a small group of friends who either currently work or have previously worked for an esteemed Italian company headquartered in [Piedmont](https://en.wikipedia.org/wiki/Piedmont_(wine)) - a region situated in northern Italy region.
+We (the B-AROL-O Team) are a small group of friends who work or have previously worked for an esteemed Italian company headquartered in [Piedmont](https://en.wikipedia.org/wiki/Piedmont_(wine)) - a region situated in northern Italy region.
 This company has made its mark in the packaging industry, developing closure systems for wines and spirits.
 
 On top of that, "B-AROL-O" (excluding the hyphens) is also [an iconic wine](https://en.wikipedia.org/wiki/Barolo) originating from Piedmont.
