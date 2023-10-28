@@ -22,7 +22,7 @@ Once the team name is set, selecting the project name becomes as simple as picki
 
 This initiative was initiated in 2021, prompted by the [OpenCV Spatial AI Contest](https://opencv.org/opencv-spatial-ai-contest/) sponsored by [Intel&reg;](https://www.intel.com/) and [Microsoft Azure](https://azure.microsoft.com/).
 
-By April 2022, [an esteemed panel of judges](https://opencv.org/blog/2022/04/15/meet-the-judges-for-opencv-spatial-ai-contest/) designated the B-AROL-O Team as a **Top 10 Finalist** from a pool of over 120 submissions.
+By April 2022, [an esteemed panel of judges](https://opencv.org/blog/meet-the-judges-for-opencv-spatial-ai-contest/) designated the B-AROL-O Team as a **Top 10 Finalist** from a pool of over 120 submissions.
 
 [![ARNEIS - OpenCV Spatial AI Contest Top 10](https://user-images.githubusercontent.com/75182/164913525-176820e5-eb7e-4f74-b3da-f7adf01dda9c.png)](https://www.youtube.com/watch?v=mijyQ9Kjg9Y "ARNEIS - OpenCV Spatial AI Contest Top 10")
 
