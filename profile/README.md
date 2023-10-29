@@ -42,15 +42,19 @@ This resource provides a comprehensive understanding of the project's details.
 
 ### What Comes Next?
 
-[Keep an eye out](https://twitter.com/baroloteam), as the [B-AROL-O Team is gearing up for a return...](https://www.hackster.io/projects/845012)
+The B-AROL-O Team is now [busy with a new project](https://www.hackster.io/projects/845012):
+
+![2023-10-28-freisa-landing-page.png](img/2023-10-28-freisa-landing-page.png)
+
+Follow us on [Instagram](https://instagram.com/baroloteam) or [~~Twitter~~ X](https://x.com/baroloteam) if you want to know more!
 
 ### How to Get in Touch with Us
 
 You can reach out to us through the following platforms:
 
-* [![Twitter](https://img.icons8.com/small/16/000000/twitter.png)](https://twitter.com/baroloteam) Twitter: [@baroloteam](<https://twitter.com/baroloteam>)
-
 * [![Instagram](https://img.icons8.com/small/16/000000/instagram-new.png)](https://instagram.com/baroloteam) Instagram: [@baroloteam](https://instagram.com/baroloteam)
+
+* [![Twitter](https://img.icons8.com/small/16/000000/twitter.png)](https://x.com/baroloteam) ~~Twitter~~ X: [@baroloteam](<https://x.com/baroloteam>)
 
 * [![GitHub](https://img.icons8.com/small/16/000000/github.png)](https://github.com/B-AROL-O) GitHub: [B-AROL-O](https://github.com/B-AROL-O)
 
