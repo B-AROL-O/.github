@@ -44,7 +44,7 @@ This resource provides a comprehensive understanding of the project's details.
 
 The B-AROL-O Team is now [busy with a new project](https://www.hackster.io/projects/845012):
 
-![2023-10-28-freisa-landing-page.png](img/2023-10-28-freisa-landing-page.png)
+![2023-10-28-freisa-landing-page.png](https://raw.githubusercontent.com/B-AROL-O/.github/main/profile/img/2023-10-28-freisa-landing-page.png)
 
 Follow us on [Instagram](https://instagram.com/baroloteam) or [~~Twitter~~ X](https://x.com/baroloteam) if you want to know more!
 
