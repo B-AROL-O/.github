@@ -20,7 +20,9 @@ Once the team name is set, selecting the project name becomes as simple as picki
 
 **ARNEIS** (short for ``A`` utomated ``R`` ecognizer,  ``N`` etwork - ``E`` nabled, ``I`` tem ``S`` orter) is the first project developed by the B-AROL-O team.
 
+<!-- markdown-link-check-disable -->
 This initiative was initiated in 2021, prompted by the [OpenCV Spatial AI Contest](https://opencv.org/opencv-spatial-ai-contest/) sponsored by [Intel&reg;](https://www.intel.com/) and [Microsoft Azure](https://azure.microsoft.com/).
+<!-- markdown-link-check-enable -->
 
 By April 2022, [an esteemed panel of judges](https://opencv.org/blog/meet-the-judges-for-opencv-spatial-ai-contest/) designated the B-AROL-O Team as a **Top 10 Finalist** from a pool of over 120 submissions.
 
