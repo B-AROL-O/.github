@@ -14,6 +14,14 @@ Reflecting on the origins of our camaraderie and embracing our sense of belongin
 
 Once the team name is set, selecting the project name becomes as simple as picking out another exquisite grape or wine native to Piedmont 🍷 🍇 🥂.
 
+### FREISA
+
+The B-AROL-O Team is now [busy with a new project](https://www.hackster.io/projects/845012):
+
+![2023-10-28-freisa-landing-page.png](https://raw.githubusercontent.com/B-AROL-O/.github/main/profile/img/2023-10-28-freisa-landing-page.png)
+
+TODO
+
 ### ARNEIS
 
 [![arneis-logo.png](https://raw.githubusercontent.com/B-AROL-O/ARNEIS/main/docs/images/arneis-logo.png)](https://arneis.readthedocs.io)
@@ -43,10 +51,6 @@ This resource provides a comprehensive understanding of the project's details.
 [![arneis-qr-code.png](https://github.com/B-AROL-O/ARNEIS/blob/main/docs/images/arneis-qr-code.png?raw=true)](https://arneis.readthedocs.io)
 
 ### What Comes Next?
-
-The B-AROL-O Team is now [busy with a new project](https://www.hackster.io/projects/845012):
-
-![2023-10-28-freisa-landing-page.png](https://raw.githubusercontent.com/B-AROL-O/.github/main/profile/img/2023-10-28-freisa-landing-page.png)
 
 Follow us on [Instagram](https://instagram.com/baroloteam) or [~~Twitter~~ X](https://x.com/baroloteam) if you want to know more!
 
