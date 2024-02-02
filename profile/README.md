@@ -40,7 +40,9 @@ The project has been made available as an Open Source initiative, governed by th
 For a deeper insight, explore the ARNEIS project documentation at [arneis.readthedocs.io](https://arneis.readthedocs.io).
 This resource provides a comprehensive understanding of the project's details.
 
+<!--
 [![arneis-qr-code.png](https://github.com/B-AROL-O/ARNEIS/blob/main/docs/images/arneis-qr-code.png?raw=true)](https://arneis.readthedocs.io)
+-->
 
 ### FREISA
 
