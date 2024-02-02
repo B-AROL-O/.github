@@ -56,7 +56,7 @@ Project FREISA is the **Grand Prize Winner** 🥇 of the [OpenCV AI Competition 
 
 Follow us on [Instagram](https://instagram.com/baroloteam) or [~~Twitter~~ X](https://x.com/baroloteam) if you want to know more!
 
-### How to Get in Touch with Us
+## How to Get in Touch with Us
 
 You can reach out to us through the following platforms:
 
