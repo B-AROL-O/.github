@@ -14,16 +14,6 @@ Reflecting on the origins of our camaraderie and embracing our sense of belongin
 
 Once the team name is set, selecting the project name becomes as simple as picking out another exquisite grape or wine native to Piedmont 🍷 🍇 🥂.
 
-### FREISA
-
-[Project FREISA](https://www.hackster.io/projects/845012), an acronym for "`F`our-legged `R`obot `E`nsuring `I`ntelligent `S`prinkler `A`utomation", is the winner of the **Grand Prize** 🥇 of [OpenCV AI Competition 2023](https://www.hackster.io/contests/opencv-ai-competition-2023).
-
-**BUT THE COMPETITION IS NOT OVER YET!**
-
-**VOTE ON THE [OpenCV Form-Community Award](https://www.jotform.com/form/233544823564157) and select "Four-legged Robot Ensuring Intelligent Sprinkler Automation" as 1st Choice! LET'S WIN TOGETHER ⭐**
-
-[![2023-12-29-freisa-image.png](https://github.com/B-AROL-O/FREISA/assets/90387263/395a7b23-75df-4d37-9ae5-e493044b0249)](https://www.jotform.com/form/233544823564157)
-
 ### ARNEIS
 
 [![arneis-logo.png](https://raw.githubusercontent.com/B-AROL-O/ARNEIS/main/docs/images/arneis-logo.png)](https://arneis.readthedocs.io)
@@ -50,13 +40,23 @@ The project has been made available as an Open Source initiative, governed by th
 For a deeper insight, explore the ARNEIS project documentation at [arneis.readthedocs.io](https://arneis.readthedocs.io).
 This resource provides a comprehensive understanding of the project's details.
 
+<!--
 [![arneis-qr-code.png](https://github.com/B-AROL-O/ARNEIS/blob/main/docs/images/arneis-qr-code.png?raw=true)](https://arneis.readthedocs.io)
+-->
+
+### FREISA
+
+[FREISA](https://www.hackster.io/projects/845012), an acronym for "`F`our-legged `R`obot `E`nsuring `I`ntelligent `S`prinkler `A`utomation", continues the storyline of the [B-AROL-O Team](https://github.com/B-AROL-O?view_as=public)'s saga.
+
+Project FREISA is the **Grand Prize Winner** 🥇 of the [OpenCV AI Competition 2023](https://www.hackster.io/contests/opencv-ai-competition-2023) with [OpenCV](https://www.hackster.io/opencv), [Khadas](https://www.hackster.io/khadas) and [Seeed Studio](https://www.hackster.io/seeed).
+
+[![2024-01-27-freisa-hackster-page.png](https://raw.githubusercontent.com/B-AROL-O/FREISA/main/assets/2024-01-27-freisa-hackster-page.png)](https://www.hackster.io/projects/845012)
 
 ### What Comes Next?
 
 Follow us on [Instagram](https://instagram.com/baroloteam) or [~~Twitter~~ X](https://x.com/baroloteam) if you want to know more!
 
-### How to Get in Touch with Us
+## How to Get in Touch with Us
 
 You can reach out to us through the following platforms:
 
