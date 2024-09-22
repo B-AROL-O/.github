@@ -5,6 +5,8 @@
 We (the B-AROL-O Team) are a small group of friends who work or have previously worked for an esteemed Italian company headquartered in [Piedmont](https://en.wikipedia.org/wiki/Piedmont_(wine)) - a region situated in northern Italy region.
 This company has made its mark in the packaging industry, developing closure systems for wines and spirits.
 
+![2024-02-25-baroloteam-buegrasso.png](img/2024-02-25-baroloteam-buegrasso.png)
+
 On top of that, "B-AROL-O" (excluding the hyphens) is also [an iconic wine](https://en.wikipedia.org/wiki/Barolo) originating from Piedmont.
 The renowned [Barolo wine region](https://www.decanter.com/wine/wine-regions/piedmont-wine-region/barolo/), located in close proximity to our company headquarters, entices individuals from all corners of the globe.
 
