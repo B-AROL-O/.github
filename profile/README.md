@@ -66,7 +66,7 @@ You can reach out to us through the following platforms:
 
 * [![GitHub](https://img.icons8.com/small/16/000000/github.png)](https://github.com/B-AROL-O) GitHub: [B-AROL-O](https://github.com/B-AROL-O)
 
-* [![Email](https://img.icons8.com/small/16/000000/email.png)](mailto:info@baroloteam.online) Email: [info@baroloteam.online](mailto:info@baroloteam.online)
+* [![Email](https://img.icons8.com/small/16/000000/email.png)](mailto:b-arol-o@solarma.it) Email: [b-arol-o@solarma.it](mailto:b-arol-o@solarma.it)
 
 <!-- * Homepage: <https://baroloteam.online> -->
 
