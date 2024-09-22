@@ -30,10 +30,6 @@ By April 2022, [an esteemed panel of judges](https://opencv.org/blog/meet-the-ju
 
 [![ARNEIS - OpenCV Spatial AI Contest Top 10](https://user-images.githubusercontent.com/75182/164913525-176820e5-eb7e-4f74-b3da-f7adf01dda9c.png)](https://www.youtube.com/watch?v=mijyQ9Kjg9Y "ARNEIS - OpenCV Spatial AI Contest Top 10")
 
-<!-- [![2022-04-21-opencv-spatial-ai-contest-top-10-finalist.png](https://raw.githubusercontent.com/B-AROL-O/ARNEIS/main/docs/images/2022-04-21-opencv-spatial-ai-contest-top-10-finalist.png)](https://form.jotform.com/221086334784156) -->
-
-<!-- Please vote and have friends vote for "**Team B-AROL-O - ARNEIS**" [on this site](https://form.jotform.com/221086334784156)! -->
-
 A few weeks later, ARNEIS garnered the highest count of fan votes via the internet and secured the title of the **[Winner of the OpenCV Spatial AI Contest Popular Vote](https://opencv.org/blog/announcing-the-opencv-spatial-ai-contest-popular-vote-winner/)**.
 
 Although the OpenCV Spatial AI Contest has drawn to a close, the ARNEIS project continues to thrive.
@@ -42,13 +38,9 @@ The project has been made available as an Open Source initiative, governed by th
 For a deeper insight, explore the ARNEIS project documentation at [arneis.readthedocs.io](https://arneis.readthedocs.io).
 This resource provides a comprehensive understanding of the project's details.
 
-<!--
-[![arneis-qr-code.png](https://github.com/B-AROL-O/ARNEIS/blob/main/docs/images/arneis-qr-code.png?raw=true)](https://arneis.readthedocs.io)
--->
-
 ### FREISA
 
-[FREISA](https://github.com/B-AROL-O/FREISA), an acronym for "`F`our-legged `R`obot `E`nsuring `I`ntelligent `S`prinkler `A`utomation", continues the storyline of the [B-AROL-O Team](https://github.com/B-AROL-O?view_as=public)'s saga.
+Project [FREISA](https://github.com/B-AROL-O/FREISA), an acronym for "`F`our-legged `R`obot `E`nsuring `I`ntelligent `S`prinkler `A`utomation", continues the storyline of the [B-AROL-O Team](https://github.com/B-AROL-O?view_as=public)'s saga.
 
 Project FREISA was the **Grand Prize Winner** 🥇 of the [OpenCV AI Competition 2023](https://www.hackster.io/contests/opencv-ai-competition-2023) with [OpenCV](https://www.hackster.io/opencv), [Khadas](https://www.hackster.io/khadas) and [Seeed Studio](https://www.hackster.io/seeed).
 
@@ -69,7 +61,5 @@ You can reach out to us through the following platforms:
 * [![GitHub](https://img.icons8.com/small/16/000000/github.png)](https://github.com/B-AROL-O) GitHub: [B-AROL-O](https://github.com/B-AROL-O)
 
 * [![Email](https://img.icons8.com/small/16/000000/email.png)](mailto:b-arol-o@solarma.it) Email: [b-arol-o@solarma.it](mailto:b-arol-o@solarma.it)
-
-<!-- * Homepage: <https://baroloteam.online> -->
 
 <!-- EOF -->
