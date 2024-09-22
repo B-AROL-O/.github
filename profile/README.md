@@ -18,9 +18,9 @@ Once the team name is set, selecting the project name becomes as simple as picki
 
 ### ARNEIS
 
-[![arneis-logo.png](https://raw.githubusercontent.com/B-AROL-O/ARNEIS/main/docs/images/arneis-logo.png)](https://arneis.readthedocs.io)
+Project **[ARNEIS](https://github.com/B-AROL-O/ARNEIS)** (short for ``A`` utomated ``R`` ecognizer,  ``N`` etwork - ``E`` nabled, ``I`` tem ``S`` orter) was the first project developed by the B-AROL-O Team.
 
-**ARNEIS** (short for ``A`` utomated ``R`` ecognizer,  ``N`` etwork - ``E`` nabled, ``I`` tem ``S`` orter) was the first project developed by the B-AROL-O Team.
+[![arneis-logo.png](https://raw.githubusercontent.com/B-AROL-O/ARNEIS/main/docs/images/arneis-logo.png)](https://arneis.readthedocs.io)
 
 <!-- markdown-link-check-disable -->
 This initiative was initiated in 2021, prompted by the [OpenCV Spatial AI Contest](https://opencv.org/opencv-spatial-ai-contest/) sponsored by [Intel&reg;](https://www.intel.com/) and [Microsoft Azure](https://azure.microsoft.com/).
@@ -32,7 +32,7 @@ By April 2022, [an esteemed panel of judges](https://opencv.org/blog/meet-the-ju
 
 A few weeks later, ARNEIS garnered the highest count of fan votes via the internet and secured the title of the **[Winner of the OpenCV Spatial AI Contest Popular Vote](https://opencv.org/blog/announcing-the-opencv-spatial-ai-contest-popular-vote-winner/)**.
 
-Although the OpenCV Spatial AI Contest has drawn to a close, the ARNEIS project continues to thrive.
+<!-- Although the OpenCV Spatial AI Contest has drawn to a close, the ARNEIS project continues to thrive. -->
 The project has been made available as an Open Source initiative, governed by the MIT/CC-BY-SA licenses, and we warmly welcome contributions!
 
 For a deeper insight, explore the ARNEIS project documentation at [arneis.readthedocs.io](https://arneis.readthedocs.io).
@@ -40,11 +40,11 @@ This resource provides a comprehensive understanding of the project's details.
 
 ### FREISA
 
-Project [FREISA](https://github.com/B-AROL-O/FREISA), an acronym for "`F`our-legged `R`obot `E`nsuring `I`ntelligent `S`prinkler `A`utomation", continues the storyline of the [B-AROL-O Team](https://github.com/B-AROL-O?view_as=public)'s saga.
-
-Project FREISA was the **Grand Prize Winner** 🥇 of the [OpenCV AI Competition 2023](https://www.hackster.io/contests/opencv-ai-competition-2023) with [OpenCV](https://www.hackster.io/opencv), [Khadas](https://www.hackster.io/khadas) and [Seeed Studio](https://www.hackster.io/seeed).
+Project **[FREISA](https://github.com/B-AROL-O/FREISA)**, an acronym for "`F`our-legged `R`obot `E`nsuring `I`ntelligent `S`prinkler `A`utomation", continues the storyline of the [B-AROL-O Team](https://github.com/B-AROL-O?view_as=public)'s saga.
 
 [![2024-01-27-freisa-hackster-page.png](https://raw.githubusercontent.com/B-AROL-O/FREISA/main/assets/2024-01-27-freisa-hackster-page.png)](https://www.hackster.io/projects/845012)
+
+Project FREISA was the **Grand Prize Winner** 🥇 of the [OpenCV AI Competition 2023](https://www.hackster.io/contests/opencv-ai-competition-2023) with [OpenCV](https://www.hackster.io/opencv), [Khadas](https://www.hackster.io/khadas) and [Seeed Studio](https://www.hackster.io/seeed).
 
 ### What Comes Next?
 
